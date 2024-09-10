@@ -35,7 +35,8 @@ como um lego, você ira utilizar peças para criar algoritimos , ou seja, para r
 ## operadores
 
 atribuição ( = )
-[x] operador de concatenação
+[x] operador de concatenação +
+[x] operadores de comparação == != < > <= =>
 
 ## Arrays 
 
@@ -53,6 +54,7 @@ atribuição ( = )
 # condicionais 
 
  [x] switch
+ [x] if/else 
 
 ## modules em node.jd
 [x] importando modules (require, commonJS)
