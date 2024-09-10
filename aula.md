@@ -7,7 +7,7 @@ como um lrgo, você ira utilizar peças para criar algoritimos , ou seja, para r
 
 ## Peças da linguagem
 
-- comentario
+- comentario (//)
 - declaração de variaveis
 - operadores
 - Tipos de dados
@@ -21,3 +21,17 @@ coletar os dados
 processar os dados 
 Apresentar os dados
 
+## Escopo e variaveis
+
+variaveis globais e locais
+constantes
+
+## tipos de dados
+
+strings
+number
+function
+
+## operadores
+
+atribuição ( = )
