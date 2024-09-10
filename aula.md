@@ -45,3 +45,11 @@ atribuição ( = )
 [x] Atributos e metodos
 [x] Criação e manipulação de objetos
 [x] Acasso a propiedades de objetos 
+
+## Estrutura de repetição
+
+[x] while
+
+# condicionais 
+
+ [x] switch
