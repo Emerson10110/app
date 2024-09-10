@@ -1,37 +1,47 @@
 ## linguagem de progrsmsção
 
 Maneira de dar instruções ao computador
-como um lrgo, você ira utilizar peças para criar algoritimos , ou seja, para resolver problemas.
+como um lego, você ira utilizar peças para criar algoritimos , ou seja, para resolver problemas.
 
 **Algoritimo**: seguencia de passos logicos e finito para resolução de problemas.
 
 ## Peças da linguagem
 
-- comentario (//)
-- declaração de variaveis
-- operadores
-- Tipos de dados
-- Estrutura de dados 
-- controle de fluxo 
-- Estrutura de repetição
+[x] comentario (//)
+[x] declaração de variaveis
+[x] operadores
+[x] Tipos de dados
+[x] Estrutura de dados 
+[x] controle de fluxo 
+[x] Estrutura de repetição
 
 # fases da resolção de um problema
 
-coletar os dados 
-processar os dados 
-Apresentar os dados
+[x] coletar os dados 
+[x] processar os dados 
+[x] Apresentar os dados
 
 ## Escopo e variaveis
 
-variaveis globais e locais
-constantes
+[x] variaveis globais e locais
+[x] constantes
 
 ## tipos de dados
 
-strings
-number
-function
+[x] strings
+[x] number
+[x] function
 
 ## operadores
 
 atribuição ( = )
+[x] operador de concatenação
+
+## Arrays 
+
+[x] uma lista que contem qualquer tipo de daods
+
+## objetos
+[x] Atributos e metodos
+[x] Criação e manipulação de objetos
+[x] Acasso a propiedades de objetos 
