@@ -53,3 +53,11 @@ atribuição ( = )
 # condicionais 
 
  [x] switch
+
+## modules em node.jd
+[x] importando modules (require, commonJS)
+[x] Biblioteca 'inquire' para criar prompts interativos
+
+## Programação assincrono e promises:
+
+[x] usando função assíncrona (async/ await)
