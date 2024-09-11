@@ -4,7 +4,7 @@
     [x] metas abertas
 [x] Marca / desmarca metas realizadas
 [x] remover metas
-- sistema de mensagem
+[x] sistema de mensagem
 
 ## Estrutura de repetição
 
