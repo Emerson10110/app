@@ -3,7 +3,7 @@
     [x] Metas realizadas
     [x] metas abertas
 [x] Marca / desmarca metas realizadas
-- remover metas
+[x] remover metas
 - sistema de mensagem
 
 ## Estrutura de repetição
