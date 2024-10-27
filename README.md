@@ -52,7 +52,7 @@ Todas as metas cadastradas são armazenadas em um **arquivo JSON**, garantindo q
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/app-de-metas.git
+   git clone https://github.com/Emerson10110/NLW-17-trilha-iniciante.git
    ```
 2. **Navegue até o diretório do projeto**:
    ```bash
