@@ -5,11 +5,11 @@
 
 **App de Metas** é um aplicativo simples e eficaz de gerenciamento de objetivos que ajuda os usuários a planejar, acompanhar e concluir suas metas de maneira organizada e prática. Com uma interface interativa no terminal, o aplicativo oferece funcionalidades para adicionar, visualizar, atualizar e remover metas, permitindo que os usuários mantenham o foco no que realmente importa.
 
-## 📌 Descrição do Projeto
+## 📌 Descrição do Projeto:
 
 Este projeto foi desenvolvido para auxiliar os usuários na **gestão de suas metas diárias, semanais ou de longo prazo**, proporcionando uma experiência fluida e intuitiva através de comandos simples no terminal. A aplicação armazena as metas localmente, garantindo que suas informações estejam sempre disponíveis, mesmo após fechar o aplicativo.
 
-### 🧩 Funcionalidades Principais
+### 🧩 Funcionalidades Principais:
 
 1. **Cadastro de Metas**:
    - **Adicione novas metas facilmente**: O usuário pode inserir novos objetivos que serão salvos em um arquivo JSON, permitindo o registro e o acesso fácil às suas metas planejadas.
@@ -23,15 +23,15 @@ Este projeto foi desenvolvido para auxiliar os usuários na **gestão de suas me
 4. **Remoção de Metas**:
    - **Exclua metas que não são mais necessárias**, limpando a lista de objetivos e mantendo apenas o que é relevante. Assim, o aplicativo ajuda a evitar sobrecarga e mantém o foco no que realmente importa.
 
-### 🎨 Interface Intuitiva
+### 🎨 Interface Intuitiva:
 
 A aplicação utiliza o módulo **@inquirer/prompts** para criar uma interface amigável e interativa no terminal. Isso garante uma experiência de usuário intuitiva, permitindo navegar pelas funcionalidades com facilidade, mesmo para aqueles que não estão acostumados a usar aplicativos no terminal.
 
-### 💾 Persistência de Dados
+### 💾 Persistência de Dados:
 
 Todas as metas cadastradas são armazenadas em um **arquivo JSON**, garantindo que os dados sejam mantidos entre as sessões de uso. Assim, mesmo que você feche o aplicativo, suas metas estarão lá quando voltar.
 
-## 📋 Exemplos de Uso
+## 📋 Exemplos de Uso:
 
 1. **Cadastrar uma Meta**:
    - O aplicativo guiará o usuário na inserção de um novo objetivo, pedindo um título e uma breve descrição.
@@ -48,7 +48,7 @@ Todas as metas cadastradas são armazenadas em um **arquivo JSON**, garantindo q
 - **@inquirer/prompts**: Para interação e navegação fluida no terminal.
 - **JSON**: Para armazenar e persistir os dados das metas.
 
-## 🚀 Como Iniciar o Projeto
+## 🚀 Como Iniciar o Projeto:
 
 1. **Clone o repositório**:
    ```bash
@@ -67,11 +67,11 @@ Todas as metas cadastradas são armazenadas em um **arquivo JSON**, garantindo q
    node app.js
    ```
 
-## 🤝 Contribuições
+## 🤝 Contribuições:
 
 Contribuições são sempre bem-vindas! Se você tem sugestões para melhorar o aplicativo ou adicionar novas funcionalidades, sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**. Vamos construir juntos um gerenciador de metas ainda melhor!
 
-## 📄 Licença
+## 📄 Licença:
 
 Este projeto está sob a **Licença MIT**, permitindo que você use, modifique e distribua o código livremente.
 
